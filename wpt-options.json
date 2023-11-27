@@ -1,0 +1,7 @@
+{
+  "runs": 1,
+  "location": "Test:Chrome",
+  "connectivity": "Native",
+  "blockAds": true,
+  "timeout": 3600
+}
